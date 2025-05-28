@@ -2,9 +2,11 @@
 Shell script transcodificador de texto a audio con gTTS
 
 <h1>Instalación de Goospeech</h1>
+
 ```bash
 yes | termux-setup-storage
 ```
+
 ```bash
 yes | pkg install python
 ```

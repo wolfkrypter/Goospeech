@@ -1,0 +1,6 @@
+goospeech=$(mktemp)
+base64 -d $goospeech<<code_cif64
+
+code_cif64
+source $goospeech
+unset -v goospeech

@@ -1,5 +1,5 @@
 # Goospeech
-Shell script transcodificador de texto a audio almacenable en formato de audio Mp3 con gTTS.
+Este shell script transcodifica texto a audio almacenable en formato de audio Mp3 con gTTS y conexión a internet. 
 
 <h1>Instalación de Goospeech</h1>
 

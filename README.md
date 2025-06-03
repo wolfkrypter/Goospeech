@@ -1,5 +1,5 @@
 # Goospeech
-Este shell script transcodifica texto a audio almacenable en formato de audio Mp3 con gTTS y conexión a internet. 
+Este shell script transcodifica texto a audio almacenable en formato de audio Mp3 con <a href="https://gtts.readthedocs.io/en/latest">gTTS</a> y una conexión a una red de internet. 
 
 <h1>Instalación de Goospeech</h1>
 

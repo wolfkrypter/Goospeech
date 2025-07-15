@@ -43,7 +43,7 @@ goospeech
 <h2>Desinstalación de Goospeech</h2>
 
 ```bash
-urlruta=$(pwd) && cd $PATH && rm -r goospeech && cd $urlip && unset -v urlruta
+urlruta=$(pwd) && cd $PATH && rm -r goospeech && cd $urlruta && unset -v urlruta
 ```
 
 

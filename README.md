@@ -7,7 +7,7 @@ Este shell script transcodifica texto a audio almacenable en formato de audio mp
 yes | termux-setup-storage
 ```
 ```bash
-yes | pkg udate && yes | ugrade
+yes | pkg update && yes | upgrade
 ```
 ```bash
 yes | pkg install python
